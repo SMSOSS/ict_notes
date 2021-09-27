@@ -12,6 +12,13 @@
 | :------------------- | 
 | [First Term Test](/tests/FTT.md) |
 
+### Answers: ###
+
+| HW date                 |
+| :------------------- | 
+| [27 September '21](/answers/27Sep.md) |
+
+
 
 ### Maintainership ###
 - Check the [maintainer notes](/MAINTAINERS.md).
