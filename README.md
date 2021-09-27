@@ -1,10 +1,16 @@
 # Index #
 
+### Notes: ###
+
+| Notes date|
+| :------------------- | 
+| [27 September 2021](/notes/27Sep.md) |
+
 ### Tests: ###
 
-| Test                 | Edit date               |
-| :------------------- | :---------------------- |
-| [First Term Test](/tests/FTT.md)      | 27/09/2021              |
+| Test                 |
+| :------------------- | 
+| [First Term Test](/tests/FTT.md) |
 
 
 ### Maintainership ###
