@@ -1,6 +1,6 @@
 # ICT lesson 27 September note # 
 
-## 1. Quick Recap from last lesson ## 
+### 1. Quick Recap from last lesson ### 
 - Data Storage
 - Data Management 
 - Data Exchange 
@@ -8,13 +8,13 @@
 - increase efficiency 
 - increase communication
 
-## 2. Common Input Methods on PC ##
+### 2. Common Input Methods on PC ###
 - keyboard
 - voice input by microphone 
 - on-screen keyboard
 - OCR (optic character recognition)
 
-## 3. File Formats ##
+### 3. File Formats ###
 - DOC/DOCX - Word document (formatted , flexible format that can be changed anytime, may have messed up format on MacOS)
 - HTML - hyper markup language (mainly used for webpages) 
 - RTF - rich text format (cross platform)
