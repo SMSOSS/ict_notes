@@ -16,7 +16,7 @@ Classified into Text and Numbers.
 - Text is made up of different characterizations.
 - Different characterizations for different words, ASCII / Unicode for English and BIG5 For Chinese.
 - All these (ASCII, BIG5, etc.) are all just Hexadecimal numbers, and the computer knows how to read them into human-readable text.
-- For example, 秦 is 3210 in BIG5.
+- For example, 秦 is `3210` in BIG5.
 
 #### Extra: 255 and 127 ####
 255 and 127 are commonly seen numbers.
