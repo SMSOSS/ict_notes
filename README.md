@@ -5,6 +5,7 @@
 | Notes date|
 | :------------------- | 
 | [27 September 2021](/notes/27Sep.md) |
+| [29 September 2021](/notes/29Sep.md)
 
 ### Tests: ###
 
