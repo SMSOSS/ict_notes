@@ -14,9 +14,9 @@
 
 ### Answers: ###
 
-| HW date                 |
-| :------------------- | 
-| [27 September '21](/answers/27Sep.md) |
+| HW date                 | Answers Explanation |
+| :------------------- | :------------------- | 
+| [27 September '21](/answers/27Sep.md) | [30 September '21](/answers/exp-27Sep.md)
 
 
 
