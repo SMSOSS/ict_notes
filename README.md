@@ -4,6 +4,7 @@
 
 | Notes date|
 | :------------------- | 
+| [Lost Notes](/notes/LostNotes.md) |
 | [27 September 2021](/notes/27Sep.md) |
 | [29 September 2021](/notes/29Sep.md)
 
