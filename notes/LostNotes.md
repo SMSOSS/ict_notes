@@ -20,7 +20,9 @@ Classified into Text and Numbers.
 
 #### Extra: 255 and 127 ####
 255 and 127 are commonly seen numbers.
+
 255 = (2^8) - 1
+
 127 = (2^7) - 1
 
 ### Jobs related to Data ###
