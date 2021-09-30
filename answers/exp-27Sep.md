@@ -9,7 +9,7 @@ Ans : 1 And 2 Only
 
 #### Question 4 ####
 Ans: Provide tools and functions for efficient data access and report generation.
-- Database = Excel but with more commands (ref: Microsoft Access)u sed in management for data
+- Database = Excel but with more commands (ref: Microsoft Access) used in management for data
 - Database can handle a lot of data but Excel cannot. (Database specialized in handling large data.)
 - Good at extracting required data in shortest time.
 - It is NOT equivalent to spreadsheet. (Answer 1 is wrong.)
