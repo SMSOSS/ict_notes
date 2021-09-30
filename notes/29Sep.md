@@ -1,23 +1,26 @@
 # ICT lesson 29 September note #
 
-## 1. Word function ##
-pharagaph setting(?):
-- font (dual with anything related to text)
-- alignment (no affect length / row / page)
-  - left / right / right / Justified / distributed
-- character spacing (affect row / page)
-- line spacing (double line spacing) -> (affect page / row)
-- Ordered list (point form)
-- Underlined list (-)
+## Functions in MS word ##
 
-insert:
-- image 
+### Paragraph settings: ###
+- font (change text style. e.g. cursive)
+- alignment (does not affect length / row / page)
+  - left / right / right / Justified / distributed
+- character spacing (affects row / page)
+- line spacing (double line spacing) -> (affect page / row)
+- Ordered list (point form / number form, for example 1. 2. 3.)
+- Underlined list (_______)
+
+### Insert settings ###
+- image (pictures)
 - table
 - equations 
 
-layout:
+### Layout Settings ###
 - Indentation (space before each new phargraph)
 - Margin (space between two side)
 - Orientation
 
 #### made by tkt0506 ####
+
+#### curated by ceb ####
