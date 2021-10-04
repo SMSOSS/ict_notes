@@ -19,7 +19,7 @@
 - equations 
 
 ### Layout Settings ###
-- Indentation (space before each new phargraph)
+- Indentation (space before each new pargraph)
 - Margin (space between two side)
 - Orientation
 
