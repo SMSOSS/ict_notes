@@ -5,7 +5,7 @@
 ### Paragraph settings: ###
 - font (change text style. e.g. cursive)
 - alignment (does not affect length / row / page)
-  - left / right / right / Justified / distributed
+  - left-aligned / centre-aligned / right-aligned / full-justified
 - character spacing (affects row / page)
 - line spacing (double line spacing) -> (affect page / row)
 - Ordered list (point form / number form, for example 1. 2. 3.)
