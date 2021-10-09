@@ -56,21 +56,36 @@ while(found = 0){
 - need to run  n^2 times to find (worst case) -> low efficiency
 
 ## bubble sort ##
-
-``` 
-// c++ 
 - move largest to right each time 
 - need to run n^2 times to find -> low efficiency
 - D802 [link](https://judge.hkoi.org/task/D802) , D803 [link](https://judge.hkoi.org/task/D803) 
 
-for (int i = 0 ; i<n ; i ++){
-    for (int j = 0 ; j< n ; j++){
-        if (larger){
-            move 
-        }
+``` 
+// c++ 
 
+if(order==0){ //ascending
+    for(int i = 0 ; i<=value-1 ; i++){
+      for(int j = 0 ; j<=value-1 ; j++){
+        if(table[j] > table[j+1]){
+          long int temp = table[j+1];
+          table[j+1] = table[j];
+          table[j] = temp;
+          move++ ; 
+        }
+      }
     }
-}
+  }else{ //descending 
+    for(int i = 0 ; i<=value-1 ; i++){
+      for(int j = 0 ; j<value-1 ; j++){
+        if(table[j] < table[j+1]){
+          long int temp = table[j+1];
+          table[j+1] = table[j];
+          table[j] = temp;
+          move++ ; 
+        }
+      }
+    }
+  }
 ```
 
 ## couting sort ##
