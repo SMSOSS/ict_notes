@@ -19,7 +19,8 @@
 
 | HW date                 | Answers Explanation |
 | :------------------- | :------------------- | 
-| [27 September '21](/answers/27Sep.md) | [30 September '21](/answers/exp-27Sep.md)
+| [27 September '21](/answers/27Sep.md) | [30 September '21](/answers/exp-27Sep.md) |
+| 4 Oct '21 | [7 Oct '21](/answers/exp-04Oct.md) 
 
 
 
