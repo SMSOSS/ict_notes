@@ -8,6 +8,8 @@
 | [27 September 2021](/notes/27Sep.md) |
 | [29 September 2021](/notes/29Sep.md) |
 | [4 October 2021](/notes/04Oct.md) |
+| [6 October 2021](/notes/06Oct.md) |
+| [11 October 2021](/notes/11Oct.md) |
 
 ### Test scopes: ###
 
