@@ -1,7 +1,8 @@
 # First Term Test #
 
 ### Exam Scope ###
-- TBC
+
+- The first 2 chapters (ICT Basics), word processors, and spreadsheets (until notes on [11 October](/notes/11Oct.md))
 
 ### Format ###
 
