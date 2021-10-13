@@ -15,7 +15,7 @@
 
 | Test                 |
 | :------------------- | 
-| [First Term Test](/tests/FTT.md) |
+| [F4 First Term Test](/tests/F4-FTT.md) |
 
 ### Answers: ###
 
