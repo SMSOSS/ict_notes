@@ -3,7 +3,6 @@
 ## Functions in MS word ##
 
 ### Paragraph settings: ###
-- font (change text style. e.g. cursive)
 - alignment (does not affect length / row / page)
   - left-aligned / centre-aligned / right-aligned / full-justified
   - Centre alignment is used to align the text at the center of the page.
@@ -23,8 +22,14 @@
 - Margin (space between two side)
 - Orientation
 
+### Font settings ###
+- Change text styles (bold / italic / underline, etc.)
+
 ### Credits ###
+- Mr.Chun for pointing out that font is a separate settings
+
 [Difference for centre and justified alignment](https://opjsrgh.in/Content/Worksheet/PRACTICE-WS/2021-2022/day68/9-IT.pdf)
+
 
 #### made by tkt0506 ####
 
