@@ -59,3 +59,4 @@ Classified into Text and Numbers.
 - Data verification (to check if copies of the data is as good as the original)
 - Data organization (to organize **existing** data to make them more usable)
 - Data preperation (process of cleaning and transfering **raw** data)
+- Data collection (process of gathering and measuring information on variables of interest. data preparation is active but data collection is passive. Further citation needed.)
