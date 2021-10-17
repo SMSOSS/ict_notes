@@ -17,6 +17,9 @@ Classified into Text and Numbers.
 - Different characterizations for different words, ASCII / Unicode for English and BIG5 For Chinese.
 - All these (ASCII, BIG5, etc.) are all just Hexadecimal numbers, and the computer knows how to read them into human-readable text.
 - For example, 秦 is `3210` in BIG5.
+    - GB Code (GuoBiao Index, GB2312) is a index database used for simplified Chinese characters.
+    - Big5 is a index database for traditional Chinese characters.
+    - Unicode is mainly English. It has Chinese characters tho (in total, 74605 CJK Characters).
 
 #### Extra: 255 and 127 ####
 255 and 127 are commonly seen numbers.
