@@ -50,3 +50,9 @@ Classified into Text and Numbers.
 - Data storage (Store the created data, on hard disk, USB flash drive, Network drive, etc.)
 - Data exchange (Communication. Can be exchanged via methods mentioned in data storage.)
 - Data Management
+
+### Types of Data management ###
+- Data validation (to check if all data is valid / clean / meaningful and not bogus)
+- Data verification (to check if copies of the data is as good as the original)
+- Data organization (to organize **existing** data to make them more usable)
+- Data preperation (process of cleaning and transfering **raw** data)
