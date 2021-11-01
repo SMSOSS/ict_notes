@@ -62,14 +62,14 @@ Before we start, these are mostly shared in C(++) so if you have knowledge in C(
   - Used to insert data into database.
   - Usage:
     - To insert `pig` into the database `Record` with the columns `Name` and `Type`
-        - `INSERT INTO Record (Name, Type)
+        - `INSERT INTO Record (Name, Type) \n
            VALUES ('pig', 'boar');`
 - `UPDATE`
   - Used to update values in database.
   - Usage:
     - To update the type `Type` to `saber simp` where type `Name` is `pig` in the database `Record`
-      - `UPDATE Record
-         SET Type='saber simp'
+      - `UPDATE Record \n
+         SET Type='saber simp' \n
          WHERE NAME='pig';`
 
 made by tkt0506 and only tkt0506
