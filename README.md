@@ -10,6 +10,9 @@
 | [4 October 2021](/notes/04Oct.md) |
 | [6 October 2021](/notes/06Oct.md) |
 | [11 October 2021](/notes/11Oct.md) |
+| [27 October 2021](/notes/27Oct.md) |
+| [28 October 2021](/notes/28Oct.md) |
+| [1 November 2021](/notes/01Nov.md) |
 
 ### Test scopes: ###
 
