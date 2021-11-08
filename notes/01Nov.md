@@ -26,10 +26,10 @@ Database
 - Filter names
   - Data types are case-sensitive on data type. It should be in text or number.
   - If you use wrong data type, no data will be saved.
-- Key / primary view
-  - View contains data that's needed, and are all unique.
-  - It is possible to combine two key views. (For example, combining class and class number will create a unique key view.)
-  - If there is no key view, you can give the data a unique ID (e.g. `0001`) to classify the data.
+- Key / primary field
+  - Fields contains data that's needed, and are all unique.
+  - It is possible to combine two key fields. (For example, combining class and class number will create a unique key field.)
+  - If there is no key field, you can give the data a unique ID (e.g. `0001`) to classify the data.
 
 ## Common data types ## 
 Before we start, these are mostly shared in C(++) so if you have knowledge in C(++) it should be relatively easy.
