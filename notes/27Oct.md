@@ -49,9 +49,9 @@
 - check first column -> put input in first column (Ex : name )
 - filter 
 
-## pivot table ##  
-- row , column , value , filter 
-- oh no forgot to type :(
+## 4. Pivot Tables ##  
+- Pivot tables are GUI functions.
+- Just do drag and drop :)
 
 ## what-if analysis / sceniro manage ##
 made by tkt0506
