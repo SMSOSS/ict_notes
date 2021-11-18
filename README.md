@@ -13,6 +13,9 @@
 | [27 October 2021](/notes/27Oct.md) |
 | [28 October 2021](/notes/28Oct.md) |
 | [1 November 2021](/notes/01Nov.md) |
+| [10 November 2021](/notes/10Nov.md) |
+| [17 November 2021](/notes/17Nov.md) |
+| [18 November 2021](/notes/18Nov.md) |
 
 ### Test scopes: ###
 
