@@ -53,5 +53,10 @@
 - Pivot tables are GUI functions.
 - Just do drag and drop :)
 
-## what-if analysis / sceniro manage ##
+## 5. What-if analysis / scenario merging ##
+- What-if analysis can allow you to store multiple sets of data in a cell.
+    - Useful when you want to see different results with different values.
+    - Some examples are scenario merge and goal seek.
+
+
 made by tkt0506
