@@ -49,3 +49,5 @@
 
 ### Maintainership ###
 We need help. Contribute your own notes if you're interested to help after reading the [maintainer notes](/MAINTAINERS.md). All contributions are welcome, as long as they're useful and unmentioned in our notes yet.
+
+Notes are currently maintained by @kotnid and @rain2wood.
