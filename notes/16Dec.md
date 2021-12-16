@@ -51,3 +51,5 @@
 		- e.g. Net speed makes video unplayable
 			- FIX: Buffer time
 	
+## 3. Exam syllabus ##
+Everything that YMC teached except for multimedia
