@@ -39,3 +39,15 @@
 	- Flash is dead now so rest in peace
 	
 - AVI and MP4 is used more commonly nowadays.
+
+- To make you able to view videos more quicker, streaming has been introduced.
+	- It works by caching your videos for few more seconds
+	- Streaming != Live.
+		- Streaming doesn't have to be live.
+	- Data used by streaming = Data used by downloading whole video
+		- You don't save any cellular data by streaming
+	- Video is downloading when video is downloading
+	- Note that it also has limitations.
+		- e.g. Net speed makes video unplayable
+			- FIX: Buffer time
+	
