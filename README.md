@@ -32,6 +32,30 @@
 | :------------------- | 
 | [18 November 2021](/notes/18Nov.md) |
 
+| Microsoft Word |
+| :------------------- | 
+| [24 November 2021](/notes/24Nov.md) |
+| [25 November 2021](/notes/25Nov.md) |
+
+| Represntation of Data |
+| :------------------- | 
+| [29 November 2021](/notes/29Nov.md) |
+| [2 December 2021](/notes/02Dec.md) |
+
+| Images, colors and videos |
+| :------------------- | 
+| [8 December 2021](/notes/08Dec.md)|
+| [9 December 2021](/notes/09Dec.md) |
+| [15 December 2021](/notes/15Dec.md) |
+| [16 December 2021](/notes/16Dec.md) |
+
+| Extras |
+| :------------------- | 
+| [Audio](/notes/extra/Audio.md)|
+| [Brief introduction in CPU](/notes/extra/hardware-cpu.md) |
+
+Side note: 9 December note's formatting is broken. I'll seek a fix later (or just redo the whole document). View raw still works for now tho.
+
 ### Test scopes: ###
 
 | Test                 |
