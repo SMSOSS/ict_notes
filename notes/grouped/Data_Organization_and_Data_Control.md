@@ -1,18 +1,18 @@
 # Data Organization and Data Control #
 
 ## Table of Content ## 
-| Table of Content |
-| :------------------- | 
-| [Source](#Source)|
-| [Homework](#Homework) |
-| [Common Data Errors](#Common-Data-Errors) |
-| [Data Validation Methods](#Data-Validation-Methods) |
+| Table of Content                                        |
+| :------------------------------------------------------ |
+| [Source](#Source)                                       |
+| [Homework](#Homework)                                   |
+| [Common Data Errors](#Common-Data-Errors)               |
+| [Data Validation Methods](#Data-Validation-Methods)     |
 | [Data verification methods](#Data-verification-methods) |
-| [Keywords](#Keywords) |
+| [Keywords](#Keywords)                                   |
 
 ## Source ##
-| Data Validiation |
-| :------------------- | 
+| Data Validiation                    |
+| :---------------------------------- |
 | [17 November 2021](/notes/17Nov.md) |
 
 ## Homework ##
@@ -39,6 +39,7 @@
 ## Data Validation Methods ##
 ### **Field presence checks** ###
 -  Checks if field is being filled in 
+-  always fill this, always right :)
 
 ### **Length checks** ###
 -  Checks length of input
