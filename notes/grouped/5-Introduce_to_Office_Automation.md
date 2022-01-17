@@ -24,6 +24,8 @@
 [explain](https://github.com/SMSOSS/ict_notes/blob/master/answers/exp-27Sep.md)
 [answer](https://github.com/SMSOSS/ict_notes/blob/master/answers/27Sep.md)
 
+---
+
 ## Applications Type ##
 -  **Word Processing Applications** (Word)
 -  **Spreadsheets** (Excel , Google Sheets)
