@@ -8,6 +8,7 @@
 | [Text File Format](#Text-File-Format) |
 | [Settings](#Settings) |
 | [Word Formatting](#Word-Formatting) |
+| [Advantage of Word Processor](#Advantage-of-Word-Processor) |
 | [Keywords](#Keywords) |
 
 
