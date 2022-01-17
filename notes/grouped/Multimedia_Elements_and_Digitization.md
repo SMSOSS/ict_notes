@@ -67,6 +67,9 @@
     - Usually used by scanners -> extremely uncommon
     - Normal image / editors **can't** view/edit them           
 
+### Calculation of Image file size ###
+- Resolution × Color Depth 
+- Remember to convert color depth to bytes a!
 --- 
 
 ## Videos ## 
