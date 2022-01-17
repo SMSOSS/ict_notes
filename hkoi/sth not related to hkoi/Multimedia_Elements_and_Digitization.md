@@ -21,6 +21,8 @@
 ## Homework ##
 -  [google form](https://docs.google.com/forms/d/e/1FAIpQLSdA_swHfVyhCcZf7cMGXOF92vj9A93O9WhjBJncKZ4pY9JCZA/viewform?hr_submission=ChgIn5r6vj0SEAjC6r6z8gwSBwjG9KnypAsQAQ)
 
+--- 
+
 ## Image Colors ## 
 ### Color depth ###
 -  **Color depth(色彩深度)** is used to indicate the color in one pixel
@@ -65,6 +67,8 @@
     - Usually used by scanners -> extremely uncommon
     - Normal image / editors **can't** view/edit them           
 
+--- 
+
 ## Videos ## 
 ### Videos ###
 -  Made up of audio(soundtrack) and a lot of images
@@ -107,6 +111,8 @@
 - Video is playing when video is downloading 
 - Data used by streaming = Data used by downloading whole video (can't save cellular data)
 - limitations : Net speed makes video unplayable (fix by buffer time)
+
+---
 
 ## Keywords ##
 -  Color depth 
