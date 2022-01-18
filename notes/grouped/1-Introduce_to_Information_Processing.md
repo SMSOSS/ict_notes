@@ -7,7 +7,7 @@
 | [Homework](#Homework) |
 | [Types of Data](#Types-of-Data) |
 | [Data](#Data) |
-| [Jobs Relaterd to Data](#Jobs-Relaterd-to-Data) |
+| [Jobs Related to Data](#Jobs-Related-to-Data) |
 | [Keywords](#Keywords) |
 
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Jobs Relaterd to Data ##
+## Jobs Related to Data ##
 -  **System analyist** (analyzes stuff)
 -  **Programmer** (writes programs to make life easier)
 -  **Technicians** (monitor/back up/restore system while it's tunning , extremely low salary)
