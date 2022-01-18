@@ -111,7 +111,7 @@
 
 ### `SMALL` ###
 -  Used to find the **nth smallest** number in range
--  Usage : `SMALL(rnage , number sequence(n))`
+-  Usage : `SMALL(range , number sequence(n))`
 
 ### `MEDIAN` ###
 -  Used to find the **median(middle number)** in range
