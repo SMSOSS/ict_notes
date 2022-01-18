@@ -87,7 +87,7 @@
     - **Loseless conversion** : No dirty hack , save whatever is recorded (**larger** file size) 
 
 ### Calculation of Video file size ###
-- Frame size x Frame rate x color depth / compression ratio x duration(seconds)
+- Frame size x Frame rate x color depth ÷ compression ratio x duration(seconds)
 - Bitrate x duration(seconds) 
 
 ### Video Format ###
