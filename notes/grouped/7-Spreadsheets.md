@@ -152,7 +152,7 @@
 -  Usage : `RAND()`
 -  Advanced : `RAND()*(b-a)+a` -> generate number between **a** to **b**
 
-### `RANDBETWEEM` ###
+### `RANDBETWEEN` ###
 -  Used to generate **random number** between **given range**
 -  Usage : `RANDBETWEEN(smallest number , largest number)`
 -  It does NOT generate numbers with decimals 
