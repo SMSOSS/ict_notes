@@ -49,6 +49,17 @@
 | [15 December 2021](/notes/15Dec.md) |
 | [16 December 2021](/notes/16Dec.md) |
 
+| Hardware - CPU |
+| :------------------- | 
+| [14 February 2022](/notes/2022/14Feb.md)|
+| [15 February 2022](/notes/2022/15Feb.md)|
+
+| Hardware - Input / Output Devices |
+| :------------------- | 
+| [16 February 2022](/notes/2022/16Feb.md)|
+| [22 February 2022](/notes/2022/22Feb.md)|
+| [23 February 2022](/notes/2022/23Feb.md)|
+
 | Extras |
 | :------------------- | 
 | [Audio](/notes/extra/Audio.md)|
