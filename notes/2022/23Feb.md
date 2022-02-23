@@ -30,7 +30,7 @@
 - add positive electrons on paper -> drum charge positive electrons -> laser seperate drum into have/not have electrons -> carbon go to drum to form image -> carbon go to paper when scrolling -> fuser (100/200oc) let carbon evaporate and stick on surface of paper -> printed
 - low temp fuser rare (usually hot to let carbon stick)
 - have warmup time (to heat the fuser)
-![laser_printer](img/laser_printer.png) 
+![laser_printer](/img/laser_printer.png) 
 
 ### Thermal printer ###
 - small/quiet/cheap
