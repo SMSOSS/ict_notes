@@ -1,22 +1,33 @@
 # ICT Lesson, 01 Mar notes #
 
-## USB Flash drive ##
-- occupies physical space (risk of disappear , damaged)
-- speed / time 
 
+## 1. Portable storage devices ##
+- USB (Universial Serial Bus) Flash Drives
+    - occupies physical space
+        - Can possibly be lost
+        - Can possibly be damaged
+    - Speed / Time needed varies by USB port.
+        - USB 2 is slower than USB 3 
 
-## Cloud Storage ##
-- E.g. : google drive , one drive dropbox
-- require internet connection 
-- good security 
-- larger storage 
-- cheaper 
+- Cloud Storage
+    - Some examples include:
+        - Google Drive (by Google) 
+        - OneDrive / Skydrive (by Microsoft)
+        - Dropbox
+    - Requires (stable) internet connection 
+    - Good security
+        - Hackers can still steal data if they want tho... 
+    - (usually) larger storage 
+    - Cheaper than others in general 
 
-## SD card ## 
-- for smaller device 
-- capacity / price similar to USB flash drive 
+- SD Cards
+    - For smaller devices, e.g. Cameras and Mobile Phones.
+        - Cameras use SD Cards
+        - Phones use MicroSD Cards (very very small) 
+    - Storage capacity and price is similar to USB flash drive 
 
-## DVD / Blu-ray DVD ##
-- size is larger
-- small capacity (DVD 4 GB / Blu-ray DVD 20GB)
-- cheap 
+- DVD / Blu-Ray DVD
+    - physically larger (looks like a disk)
+    - small capacity (DVD 4 GB / Blu-ray DVD 20GB)
+    - Cheap
+    - Used to store movies (usually) 
