@@ -2,18 +2,26 @@
 
 
 ## System software (Operating System / OS) ##
-### Device configuration ###
 
-### File management ###
-
-### Memory management ###
-
-### Interface platforms ###
-- Between OS and app
-
-### Netwoek communicaton management ###
+### Features ###
+- Device configuration
+- File management
+- Memory management
+- (Control) Interface platforms
+    - Between OS and app
+- Network communicaton management
 
 ## Appearance / User interface ##
-- Cmd interface (DOS , linux)
-- Graphical user interface (GUI , eg. Window)
-- text user interface (BIOS , TUT)
+- Command Line Interface (CLI) 
+    - Examples include
+        - (MS-)DOS
+        - Linux (without DE / WM)
+- Graphical User Interface (GUI)
+    - Examples include:
+        - Windows
+        - Aqua (MacOS WM)
+        - KDE
+- Text User Interface
+    - Examples include:
+        - BIOS
+        - TUT (?)
