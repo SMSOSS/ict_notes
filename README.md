@@ -77,6 +77,17 @@
 | [Audio](/notes/extra/Audio.md)|
 | [Brief introduction in CPU](/notes/extra/hardware-cpu.md) |
 
+| Grouped Notes (useful for quick revision) |
+| :------------------- | 
+| [Introduction to Information Processing](/notes/grouped/1-Introduce_to_Information_Processing.md)|
+| [Data Organizaion & Control](/notes/grouped/2-Data_Organization_and_Data_Control.md)|
+| [Number & Character Coding systems](/notes/grouped/3-Number_and_Character_Coding_Systems.md)|
+| [Multimedia Elements & Digitization](/notes/grouped/4-Multimedia_Elements_and_Digitization.md)|
+| [Introduction to Office Automation](/notes/grouped/5-Introduce_to_Office_Automation.md)|
+| [Word Processing](/notes/grouped/6-Word_Processing.md)|
+| [Spreadsheets](/notes/grouped/7-Spreadsheets.md)
+| [Databases](/notes/grouped/8-Databases.md)|
+
 Side note: 9 December note's formatting is broken. I'll seek a fix later (or just redo the whole document). View raw still works for now tho.
 
 ### Test scopes: ###
