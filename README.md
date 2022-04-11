@@ -59,6 +59,18 @@
 | [16 February 2022](/notes/2022/16Feb.md)|
 | [22 February 2022](/notes/2022/22Feb.md)|
 | [23 February 2022](/notes/2022/23Feb.md)|
+| [28 February 2022](/notes/2022/28Feb.md)|
+
+| Hardware - Storage devices |
+| :------------------- | 
+| [1 March 2022](/notes/2022/01Mar.md)|
+| [2 March 2022](/notes/2022/02Mar.md)|
+| [9 March 2022](/notes/2022/09Mar.md)|
+
+| Hardware - Operating systems and programs |
+| :------------------- | 
+| [15 March 2022](/notes/2022/15Mar.md)|
+| [16 March 2022](/notes/2022/16Mar.md)|
 
 | Extras |
 | :------------------- | 
