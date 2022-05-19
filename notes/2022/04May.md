@@ -3,8 +3,8 @@
 ## Network ##
 - biggest network = Internet 
 - Electronic device making connection (E.g. voice chat)
-- LAN ( Local Ara Network)
-- WAN ( Wife Ara Network) -> larger 
+- LAN ( Local Area Network)
+- WAN ( Wide Area Network) -> larger coverage
 
 ## LAN (Local Area Network) ##
 - Peer-to-peer (All are equal)
