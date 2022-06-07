@@ -72,6 +72,25 @@
 | [15 March 2022](/notes/2022/15Mar.md)|
 | [16 March 2022](/notes/2022/16Mar.md)|
 
+| Hardware - Types of Processing |
+| :------------------- | 
+| [26 April 2022](/notes/2022/26Apr.md) |
+
+| Networking |
+| :------------------- | 
+| [4 May 2022](/notes/2022/04May.md) - Basics & LAN |
+| [5 May 2022](/notes/2022/05May.md) - Uses of networks |
+| [11 May 2022](/notes/2022/11May.md) - Network Equipments |
+| [18 May 2022](/notes/2022/18May.md) - Network Equipments (cont.) and Connections |
+| [23 May 2022](/notes/2022/23May.md) - Introduction to WiFi |
+| [25 May 2022](/notes/2022/25May.md) - Network protocols (e-Mail & IP) |
+| [30 May 2022](/notes/2022/30May.md) - IP (cont.) and URLs |
+| [1 June 2022](/notes//2022/01June.md) - URLs (cont.) and protocols for web browsing |
+
+| Internet services and Applications |
+| :------------------- | 
+| [6 June 2022](/notes/2022/06Jun.md) - Search engines, Discussion boards and e-Mails |
+
 | Extras |
 | :------------------- | 
 | [Audio](/notes/extra/Audio.md)|
