@@ -28,6 +28,8 @@
 
 - Your PC -> Enter domain -> Find the IP via DNS server -> DNS server tell you the IP -> Connect to web server via IP -> View website
 
+![how-do-domains-work](/notes/2022/how-do-domains-work.jpg)
+
 ## 3. How a domain works ##
 
 `
