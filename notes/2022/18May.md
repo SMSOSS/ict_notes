@@ -3,7 +3,7 @@
 ## 1. Equipments - Modem ##
 - Modem = Modulator - Demodulator
 - PC -> Switch -> Router -> Modem -> Internet
-- Transfer by 0s and 1s
+- Transfer by 0 and 1
 - PC to Router signal != Modem to internet signal
 - Translate analog to digital signal & digital to analog signal
 - Extra: Router is not really needed
