@@ -34,9 +34,9 @@
 
 ### Hard Drive ###
 - How does it work? 
-    - Platters that sotres data in 0/1 
-        - Platters only rotate on way , not both ways
-    - Read/write hard that looks like a little triangle 
+    - Platters that stores data in 0/1  (Binary Style)
+        - Platters only rotate one way , not both ways
+    - Read/write hand that looks like a little triangle 
     - Access arm that holds the read-write head in place 
     - The disk like things spins to sllow platters to get read by read/write head
 - Usual speed:
@@ -46,13 +46,14 @@
 - Since it's spinning always , performance will deteoriate by time 
     - More time you use = slower 
     - Affects whole computer's performace 
-- HDD is less durable / less shock resisteant 
+        - More significant if your OS installation is on the HDD
+- HDD is less durable / less shock resistant 
 - Advantages :
     - Super cheap 
     - Large storage space
 - Defragmentation 
     - Rearrange blocks (of data) to make yout HDD faster 
-    - Move platters of same file near to one another 
+    - Move platters of same file near to one another for faster read speed (no need to spin too much for a file)
 
 ### SSD (solid-state disk) ###
 - Two types 
@@ -61,7 +62,7 @@
 - How does it work ? 
     - Send address to fetch data (similar to RAM)
     - Defragmentation also applies here but it only move data blocks instead of platters 
-- No readwrite head No motor 
+- No readwrite head & No motor 
     - Performance does not deteoriate
     - More durable / more shock resistant
 - It's expensive
@@ -70,7 +71,7 @@
 ### USB (Universial Serial Bus) Flash Drives ###
 - Occupies physical space -> possibly be lost / damaged 
 - Speed / Time needed varies by USB port 
-    - USB 2 is slower than USB 3
+    - USB 2 is slower than USB 3 (Newer Standard)
 
 ### Cloud Storage ###
 - e.g. Google Drive , OneDrive / Skydrive / Dropbox
@@ -99,8 +100,8 @@
 
 ### Network Storage ##
 - Network storage != cloud storage 
-- e.g. NAS (Netwoek Attached Storage)
-- Shared among WiFi connection -> Netwoek required
+- e.g. NAS (Network Attached Storage)
+- Shared among WiFi connection -> Network required
 - Expandability (insert hard disk to increase storage)
 - Has advanced backup system (some of them)
 - NAS -> for small office / family 
