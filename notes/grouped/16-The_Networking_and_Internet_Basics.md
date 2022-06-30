@@ -1,9 +1,9 @@
-# The Networking and Internet Basis #
+# The Networking and Internet Basics #
 
 ## Table of Content ##
 <!-- TOC -->
 
-- [The Networking and Internet Basis](#the-networking-and-internet-basis)
+- [The Networking and Internet Basics](#the-networking-and-internet-Basics)
     - [Table of Content](#table-of-content)
     - [Source](#source)
     - [Network ##](#network-)
@@ -50,7 +50,7 @@
 
 ## Network ## 
 - Biggest network = Internet 
-- Electronic devide making connection (e.g. voice chat)
+- Electronic Devices making connection (e.g. voice chat)
 
 ### LAN (Local Area Network) ###
 - Types of LANS :
@@ -80,15 +80,15 @@
 - Save money and install time 
 
 ### Internet Access Service Sharing ###
-- User can access the INternet via computer netwoek with a single Internet service account 
+- User can access the Internet via computer netwoek with a single Internet service account 
 - Reducing cost of Internet access , helping monitor/control/protect network communication 
 
 ### Network Conferencing ###
-- Enable users in two or more locations to communicate with each other via two-way audio amd video siganls 
+- Enable users in two or more locations to communicate with each other via two-way audio and video siganls 
 - e.g. Google meet , Zoom , etc.
 
 ### Information Backup ###
-- Information on individual computers can be bcked up and stored on server via network 
+- Information on individual computers can be backed up and stored on server via network 
 
 ---
 
@@ -108,7 +108,7 @@
 
 ### Router (P.193) ###
 - Connetion between differents LANS 
-- Groups all LANs into one,
+- Groups all LANs into one
 - Have function of switch
 
 ### Switch ###
@@ -117,7 +117,7 @@
 
 ## Repeater ###
 - Amplifies received siganls -> extend the coverage of network 
-- Overcome the problem of signal attenuation due to long distance transmission
+- Overcome the problem of poor signal due to long distance transmission
 
 ### Modem ###
 - Modem = Modulator - Demodulator
@@ -161,13 +161,10 @@
     - Easy to set up
 
 ### Comparision ###
-| Things                 | Wireless                 | Wired |
-| :------------------- | :------------------- | :------------------- |
-| Cost| Cheaper | Expensive
-| Speed | Slower | Faster |
-| Security | Lower | Higher |
-| Portability | Higher | Lower |
-
+| Method (Wired / Wireless)                 | Cost                 | Speed | Security | Portability |
+| :------------------- | :------------------- | :------------------- | :------------------- | :------------------- |
+| Wired| Expensive | Faster | Higher | Lower |
+| Wireless | Cheaper | Slower | Lower | Higher |
 ---
 
 ## WiFi ##
