@@ -65,15 +65,15 @@
     - Connection between connected equipment and computer 
     - Tell computer how to control the equipment
     - e.g. Library printer need install driver to control 
-    - common equipment's driver window already installed 
+    - common equipment's driver already installed on Windows 
 
 ---
 
 ## Application software (P.116) ## 
 - Installed on operating system 
-- OS specific (e.g. Can play osu in window but not linux)
+- OS specific (e.g. Can play osu in Windows but not linux)
 
-### Producivity Software ###
+### Productivity Software ###
 - Word processor 
 
 ### Communication Software ###
