@@ -59,7 +59,7 @@
 ## Modes/Types of processing (P.146) ##
 ### Single-user Systems ###
 - Computer system which process request from one user at a time 
-- Single-user system / processing (window , whatsapp)
+- Single-user system / processing (Windows , whatsapp)
 
 ### Multi-user System ###
 - Computer system which support two or more user simultaneously 
@@ -77,12 +77,12 @@
 
 ### Online Interactive System ###
 - Systems / server connected to the Internet 
-- e.g. Online ticket resevation system , search engines 
+- e.g. Online ticket reservation system , search engines 
 
 ### Parallel Processing System ###
-- Handle multi tasks at the same time 
-- Usually makr use of more than 1 CPU core / thread 
+- Handle more than one tasks at the same time 
+- Usually make use of more than 1 CPU core / thread 
 
 ### Distributed Processing System ###
-- Division of a task 
-- Distributed among different computers through network connection
+- Divide a task into few subtasks 
+- Subtasks Distributed among different computers through network connection
