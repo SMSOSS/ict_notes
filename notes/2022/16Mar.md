@@ -3,7 +3,7 @@
 ## Driver program ##
 - connection between connected equipment and computer
 - tell computer how to control the equipment 
-- E.g. : library printer need incstall driver to controll
+- E.g. : library printer need install driver to controll
 - common equipment's driver window already installed  
 
 ## Application software (P.116) ##
@@ -20,7 +20,7 @@
     - Instant messager
 - Multimeida software 
     - graphics
-    - audio eidting
+    - audio editing
     - CAD
     - web authoring
     - video editing
