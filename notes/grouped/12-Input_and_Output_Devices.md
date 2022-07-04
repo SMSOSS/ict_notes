@@ -150,6 +150,9 @@
 
 4. Laser Printer 
 - Photocopier 
+- Faster than Inkjet 
+- More precise 
+- Material for printing is cheaper
 - Add +ve electrons on paper -> drum charge +ve electrons -> laser seperate drum into have/not have electrons -> carbon go to drum to form iamge -> carbon go to paper when scrolling -> fuser (100/200oc) let carbon evaporate and stick on surface of paper -> printed 
 - Fuser is usually hot to make carbon stick on paper -> have warmup time (heat fuser)
 - Refer to textbook page 51
