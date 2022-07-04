@@ -42,7 +42,7 @@
 - Keep track of sequence of instructions being processed
 - Fetches an instructions from main memory 
 - Instructs ALU how to perform an operations 
-- Monitors and coordinates I/O operations adn system units 
+- Monitors and coordinates I/O operations and system units 
 
 ### Arithmetic and Logic Unit (ALU) ###
 - Perform arithmetic and logic operations (calculations)
