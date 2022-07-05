@@ -104,7 +104,7 @@
 - Types of twisted-pair cables:
     - Shielded twisted-pair (STP)
         - Has metal wrapper to reduce noise and electromagnetic interference
-    - Unshielded twisted cable (WTP)
+    - Unshielded twisted cable (UTP)
 
 ### Router (P.193) ###
 - Connetion between differents LANS 
