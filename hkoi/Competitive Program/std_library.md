@@ -71,5 +71,30 @@ cout << score[left]; //output = 30
 ```
 straightforward 
 
+# Function in STL #
+-There is a bunch of cheating function in STL
+-Recommended not to use these functions before you understand how it works, otherwise you will miss a lot of chances to learn.
 
+## max()/min() ##
 ```
+cout << max(10, 20); // 20
+cout << min(10, 20); // 10
+
+## sort() ##
+```
+int nums[10] = {10, 1, 4, 6, 2, 7, 3, 8, 9, 5};
+sort(nums, nums+10);
+//output nums you will get 1 2 3 4 5 6 7 8 9 10
+```
+It is basically a quicksort, you can add bool function in it,
+For example,
+```
+bool cmp(int a, int b)
+{
+return a > b;
+}
+sort(nums, nums+10, cmp) // it will then sort in descending 
+```
+
+# For more others elements in STL #
+English: https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
