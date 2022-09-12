@@ -28,4 +28,4 @@ Computerphile: https://www.youtube.com/watch?v=t5NszbIerYc&ab_channel=Computerph
 
 ## Triple ref pointer ##
 - Is a pointer to pointer ``` type** ptr2ptr; ```
-Computerphile: https://www.youtube.com/watch?v=0ZEX_l0DFK0&ab_channel=Computerphile
+- Computerphile: https://www.youtube.com/watch?v=0ZEX_l0DFK0&ab_channel=Computerphile
