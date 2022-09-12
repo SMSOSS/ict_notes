@@ -19,3 +19,13 @@ int x ;
 int *ptr = &x; // address of x is assigned to ptr
 *ptr = 20; // change value stored in address to 20
 ```
+
+# Usage of pointer # 
+
+## link list ##
+Computerphile: https://www.youtube.com/watch?v=t5NszbIerYc&ab_channel=Computerphile
+- Very good video :)
+
+## Triple ref pointer ##
+- Is a pointer to pointer ``` type** ptr2ptr; ```
+Computerphile: https://www.youtube.com/watch?v=0ZEX_l0DFK0&ab_channel=Computerphile
