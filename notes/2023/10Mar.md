@@ -12,3 +12,4 @@
 
 # Input/Output #
 - User interface -> 
+- text-based cmd
