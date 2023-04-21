@@ -38,6 +38,8 @@
   - Computer Virus
   - Worms
   - Trojan Horses
+    - Less common nowadays
+    - Stopped by firewall
   - Adwares
   - Spywares
   - Ransomwares
